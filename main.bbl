@@ -1,0 +1,441 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{didache}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5ccd6259e3ea8b90c8fa6f2dd2b45484}{%
+           family={(tradycyjnie)},
+           familyi={(\bibinitperiod},
+           given={Dwunastu\bibnamedelima Apostołów},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {greka koine}%
+      }
+      \strng{namehash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \strng{fullhash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \strng{bibnamehash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \strng{authorbibnamehash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \strng{authornamehash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \strng{authorfullhash}{5ccd6259e3ea8b90c8fa6f2dd2b45484}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{apokryf parenetyczny; 9,3}
+      \field{title}{\textgreek{Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν}}
+      \field{year}{ca. 59}
+    \endentry
+    \entry{wazny_agent_44}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36c044cd46138218769436aa8f9416d0}{%
+           family={44},
+           familyi={4\bibinitperiod},
+           given={Ważny\bibnamedelima Agent},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paryż}%
+      }
+      \list{publisher}{1}{%
+        {Aleksander Jełowicki}%
+      }
+      \strng{namehash}{36c044cd46138218769436aa8f9416d0}
+      \strng{fullhash}{36c044cd46138218769436aa8f9416d0}
+      \strng{bibnamehash}{36c044cd46138218769436aa8f9416d0}
+      \strng{authorbibnamehash}{36c044cd46138218769436aa8f9416d0}
+      \strng{authornamehash}{36c044cd46138218769436aa8f9416d0}
+      \strng{authorfullhash}{36c044cd46138218769436aa8f9416d0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{note}{Pierwsze wydanie}
+      \field{year}{1834}
+    \endentry
+    \entry{znowu_afrykanie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=419aebb176da015ddf787f31d731c0f9}{%
+           family={Brodzik},
+           familyi={B\bibinitperiod},
+           given={Tadeusz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Warszawa}%
+      }
+      \list{publisher}{1}{%
+        {ECTS}%
+      }
+      \strng{namehash}{419aebb176da015ddf787f31d731c0f9}
+      \strng{fullhash}{419aebb176da015ddf787f31d731c0f9}
+      \strng{bibnamehash}{419aebb176da015ddf787f31d731c0f9}
+      \strng{authorbibnamehash}{419aebb176da015ddf787f31d731c0f9}
+      \strng{authornamehash}{419aebb176da015ddf787f31d731c0f9}
+      \strng{authorfullhash}{419aebb176da015ddf787f31d731c0f9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Komentarz do badań nochetacznych w Afryce}
+      \field{year}{1687}
+    \endentry
+    \entry{drzewa_nochetaki}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3688eb38d92a057f40d81fcc8415ae00}{%
+           family={Clientus},
+           familyi={C\bibinitperiod},
+           given={Serverus},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3688eb38d92a057f40d81fcc8415ae00}
+      \strng{fullhash}{3688eb38d92a057f40d81fcc8415ae00}
+      \strng{bibnamehash}{3688eb38d92a057f40d81fcc8415ae00}
+      \strng{authorbibnamehash}{3688eb38d92a057f40d81fcc8415ae00}
+      \strng{authornamehash}{3688eb38d92a057f40d81fcc8415ae00}
+      \strng{authorfullhash}{3688eb38d92a057f40d81fcc8415ae00}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Rękopis hiszpański}
+      \field{title}{Mojito, che paso salsa?}
+      \field{year}{512}
+    \endentry
+    \entry{plemienne_nochetaki}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b793c6cf446b4b5aea7114f4a4b7c513}{%
+           family={Diotta},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bydgoszcz}%
+      }
+      \list{publisher}{1}{%
+        {COMA Piernik Dowiatraka}%
+      }
+      \strng{namehash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \strng{fullhash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \strng{bibnamehash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \strng{authorbibnamehash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \strng{authornamehash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \strng{authorfullhash}{b793c6cf446b4b5aea7114f4a4b7c513}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elementy kultury plemion afrykańskich}
+      \field{year}{1963}
+    \endentry
+    \entry{sfragistycy}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04096c07b57b1a5f5b5b07fd0ff5bd59}{%
+           family={Jerzy\bibnamedelima Trzymajec},
+           familyi={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Urban\bibnamedelima Urbanowicz},
+           giveni={U\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0,
+           suffix={Piotr\bibnamedelima Skała},
+           suffixi={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {Częstochowa}%
+      }
+      \list{publisher}{1}{%
+        {O.N.I Częściej}%
+      }
+      \strng{namehash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \strng{fullhash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \strng{bibnamehash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \strng{authorbibnamehash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \strng{authornamehash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \strng{authorfullhash}{04096c07b57b1a5f5b5b07fd0ff5bd59}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klasyfikacyja materyjałów woskowych}
+      \field{year}{1678}
+    \endentry
+    \entry{client_server}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c73c27a0f23a7f0bb9ed1830e347daa}{%
+           family={Kaczmarczyk},
+           familyi={K\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Warszawa}%
+      }
+      \list{publisher}{1}{%
+        {G.Ó.R Szewska}%
+      }
+      \strng{namehash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \strng{fullhash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \strng{bibnamehash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \strng{authorbibnamehash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \strng{authornamehash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \strng{authorfullhash}{6c73c27a0f23a7f0bb9ed1830e347daa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wspinaczka a sieci komputerowe}
+      \field{year}{2025}
+    \endentry
+    \entry{kiepscy_trzymaj_mnie}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55a797512ee2f7c0e3af12a7c5ef1d01}{%
+           family={Kiepski},
+           familyi={K\bibinitperiod},
+           given={Ferdynand},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \strng{fullhash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \strng{bibnamehash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \strng{authorbibnamehash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \strng{authornamehash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \strng{authorfullhash}{55a797512ee2f7c0e3af12a7c5ef1d01}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{note}{Odcinek: \textit{Zaczadzony umysł}, Sezon 9, Odcinek 219}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://kiepscy.fandom.com/wiki/Zaczadzony_umys%C5%82
+      \endverb
+      \verb{url}
+      \verb https://kiepscy.fandom.com/wiki/Zaczadzony_umys%C5%82
+      \endverb
+    \endentry
+    \entry{powstanie_kiedys}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d06519799b68b35979fcf68930e4d05}{%
+           family={Maro},
+           familyi={M\bibinitperiod},
+           given={Publius\bibnamedelima Vergilius},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Roma}%
+      }
+      \list{publisher}{1}{%
+        {mec. Gaius Iulius Caesar Octavianus}%
+      }
+      \strng{namehash}{4d06519799b68b35979fcf68930e4d05}
+      \strng{fullhash}{4d06519799b68b35979fcf68930e4d05}
+      \strng{bibnamehash}{4d06519799b68b35979fcf68930e4d05}
+      \strng{authorbibnamehash}{4d06519799b68b35979fcf68930e4d05}
+      \strng{authornamehash}{4d06519799b68b35979fcf68930e4d05}
+      \strng{authorfullhash}{4d06519799b68b35979fcf68930e4d05}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{xięga IV, 625}
+      \field{title}{Aeneis}
+      \field{year}{19 p. Chr.}
+    \endentry
+    \entry{pan_tadeusz}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7d8840f1fdaa26daa2f677207b13d52}{%
+           family={Mickiewicz},
+           familyi={M\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paryż}%
+      }
+      \list{publisher}{1}{%
+        {Aleksander Jełowicki}%
+      }
+      \strng{namehash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \strng{fullhash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \strng{bibnamehash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \strng{authorbibnamehash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \strng{authornamehash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \strng{authorfullhash}{f7d8840f1fdaa26daa2f677207b13d52}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Pierwsze wydanie}
+      \field{title}{Pan Tadeusz, czyli ostatni zajazd na Litwie. Historja szlachecka z r. 1811 i 1812, we dwunastu księgach, wierszem}
+      \field{year}{1834}
+    \endentry
+    \entry{nagrobek}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12d93fa74bd1ca9057771ab5ba59c9f1}{%
+           family={Plattenbergu},
+           familyi={P\bibinitperiod},
+           given={Murarsko-masoński},
+           giveni={M\bibinithyphendelim m\bibinitperiod},
+           givenun=0,
+           prefix={mistrz\bibnamedelima z},
+           prefixi={m\bibinitperiod\bibinitdelim z\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Plattenberg}%
+      }
+      \strng{namehash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \strng{fullhash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \strng{bibnamehash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \strng{authorbibnamehash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \strng{authornamehash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \strng{authorfullhash}{12d93fa74bd1ca9057771ab5ba59c9f1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nagrobek profesora Clausa}
+      \field{year}{1985}
+    \endentry
+    \entry{katechon}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1c835bfccef3e100a8d21008423d48c}{%
+           family={Tarsu},
+           familyi={T\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={z},
+           prefixi={z\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Ephesos (?)}%
+      }
+      \strng{namehash}{f1c835bfccef3e100a8d21008423d48c}
+      \strng{fullhash}{f1c835bfccef3e100a8d21008423d48c}
+      \strng{bibnamehash}{f1c835bfccef3e100a8d21008423d48c}
+      \strng{authorbibnamehash}{f1c835bfccef3e100a8d21008423d48c}
+      \strng{authornamehash}{f1c835bfccef3e100a8d21008423d48c}
+      \strng{authorfullhash}{f1c835bfccef3e100a8d21008423d48c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Drugi list do Tesaloniczan}
+      \field{year}{51}
+    \endentry
+    \entry{konetachos}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51d026fb0f4d249568b7caecb6af5950}{%
+           family={Tesaloniki},
+           familyi={T\bibinitperiod},
+           given={Konetachos},
+           giveni={K\bibinitperiod},
+           givenun=0,
+           prefix={z},
+           prefixi={z\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Ameryka}%
+      }
+      \strng{namehash}{51d026fb0f4d249568b7caecb6af5950}
+      \strng{fullhash}{51d026fb0f4d249568b7caecb6af5950}
+      \strng{bibnamehash}{51d026fb0f4d249568b7caecb6af5950}
+      \strng{authorbibnamehash}{51d026fb0f4d249568b7caecb6af5950}
+      \strng{authornamehash}{51d026fb0f4d249568b7caecb6af5950}
+      \strng{authorfullhash}{51d026fb0f4d249568b7caecb6af5950}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Rękopis łaciński}
+      \field{title}{Massa corporis}
+      \field{year}{2025-0 BC}
+    \endentry
+    \entry{czlonek1834}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c37a58825147972f54aca578ef845675}{%
+           family={TOWARZYSTWA},
+           familyi={T\bibinitperiod},
+           given={CZŁONEK},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paryż}%
+      }
+      \list{publisher}{1}{%
+        {Aleksander Jełowicki}%
+      }
+      \strng{namehash}{c37a58825147972f54aca578ef845675}
+      \strng{fullhash}{c37a58825147972f54aca578ef845675}
+      \strng{bibnamehash}{c37a58825147972f54aca578ef845675}
+      \strng{authorbibnamehash}{c37a58825147972f54aca578ef845675}
+      \strng{authornamehash}{c37a58825147972f54aca578ef845675}
+      \strng{authorfullhash}{c37a58825147972f54aca578ef845675}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{note}{Pierwsze wydanie}
+      \field{year}{1834}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,33 @@
+% === Klasa dokumentu ===
+\documentclass[10pt, twoside, openright]{memoir}
+
+% === Kodowanie i języki ===
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{polyglossia}
+\usepackage{csquotes}
+\setmainlanguage{polish}
+\setotherlanguage{greek}
+\newfontfamily\greekfont[Script=Greek]{Gentium Plus}
+
+% === Biblioteki matematyczne ===
+\usepackage{mathrsfs}
+
+% === Ustawienia strony ===
+\usepackage[b6paper]{geometry}
+\geometry{paperwidth=4.9in, paperheight=6.9in}
+
+% === Cytowania i bibliografia ===
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\addbibresource{references.bib}
+
+% === Styl numeracji stron ===
+\makepagestyle{myouterfooter}
+\makeevenfoot{myouterfooter}{\thepage}{}{}
+\makeoddfoot{myouterfooter}{}{}{\thepage}
+\pagestyle{myouterfooter}
+\aliaspagestyle{plain}{myouterfooter}
+
+% === Testowy tekst (opcjonalnie do usunięcia) ===
+\usepackage{lipsum}

@@ -1,0 +1,1389 @@
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.22)  22 JUN 2025 22:06
+ restricted system commands enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/mily/.texlive2023/texmf-var/l
+uatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/mily/.texlive2023/texmf-var/l
+uatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (./preamble.tex (/usr/s
+hare/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2024/01/26 v3.8.2 configurable book, report, article doc
+ument class
+(/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count185
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count186
+))
+\onelineskip=\skip48
+\lxvchars=\skip49
+\xlvchars=\skip50
+\@memcnta=\count187
+\c@@memmarkcntra=\count188
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\trimtop=\skip51
+\trimedge=\skip52
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+luaotfload | db : Font names database loaded from /home/mily/.texlive2023/texmf-
+var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip53
+\spinemargin=\skip54
+\foremargin=\skip55
+\uppermargin=\skip56
+\lowermargin=\skip57
+\headdrop=\skip58
+\normalrulethickness=\skip59
+\mem@maxheadheight=\skip60
+\mem@maxfootheight=\skip61
+\headwidth=\skip62
+\c@storedpagenumber=\count189
+\memPD=\dimen139
+\m@mabparskip=\skip63
+\thanksmarkwidth=\skip64
+\thanksmarksep=\skip65
+\droptitle=\skip66
+\c@book=\count190
+\c@part=\count191
+\c@chapter=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\beforechapskip=\skip67
+\midchapskip=\skip68
+\afterchapskip=\skip69
+\chapindent=\skip70
+\bottomsectionskip=\skip71
+\secindent=\skip72
+\beforesecskip=\skip73
+\aftersecskip=\skip74
+\subsecindent=\skip75
+\beforesubsecskip=\skip76
+\aftersubsecskip=\skip77
+\subsubsecindent=\skip78
+\beforesubsubsecskip=\skip79
+\aftersubsubsecskip=\skip80
+\paraindent=\skip81
+\beforeparaskip=\skip82
+\afterparaskip=\skip83
+\subparaindent=\skip84
+\beforesubparaskip=\skip85
+\aftersubparaskip=\skip86
+\pfbreakskip=\skip87
+\c@@ppsavesec=\count198
+\c@@ppsaveapp=\count199
+\ragrparindent=\dimen140
+\everylistparindent=\dimen141
+\parsepi=\skip88
+\topsepi=\skip89
+\itemsepi=\skip90
+\parsepii=\skip91
+\topsepii=\skip92
+\topsepiii=\skip93
+\itemsepii=\skip94
+\itemsepiii=\skip95
+\partopsepii=\skip96
+\partopsepiii=\skip97
+\m@msavetopsep=\skip98
+\m@msavepartopsep=\skip99
+\@enLab=\toks17
+\abstitleskip=\skip100
+\absleftindent=\skip101
+\abs@leftindent=\dimen142
+\absrightindent=\skip102
+\absparindent=\skip103
+\absparsep=\skip104
+\c@vslineno=\count266
+\c@poemline=\count267
+\c@modulo@vs=\count268
+\c@memfvsline=\count269
+\vleftskip=\skip105
+\vrightskip=\skip106
+\stanzaskip=\skip107
+\versewidth=\skip108
+\vgap=\skip109
+\vindent=\skip110
+\vleftmargin=\dimen143
+\c@verse=\count270
+\c@chrsinstr=\count271
+\beforepoemtitleskip=\skip111
+\afterpoemtitleskip=\skip112
+\c@poem=\count272
+\beforePoemTitleskip=\skip113
+\midPoemTitleskip=\skip114
+\afterPoemTitleskip=\skip115
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box52
+\extrarowheight=\dimen145
+\NC@list=\toks18
+\extratabsurround=\skip116
+\backup@length=\skip117
+\ar@cellbox=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count273
+\TX@ftn=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count274
+\@cmidlb=\count275
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count276
+\@lastruleclass=\count277
+\@thisrulewidth=\dimen163
+)
+\ctableftskip=\skip118
+\ctabrightskip=\skip119
+\abovecolumnspenalty=\count278
+\@linestogo=\count279
+\@cellstogo=\count280
+\@cellsincolumn=\count281
+\crtok=\toks20
+\@mincolumnwidth=\dimen164
+\c@newflo@tctr=\count282
+\mem@margin@floatbox=\box54
+\@contcwidth=\skip120
+\@contindw=\skip121
+\abovecaptionskip=\skip122
+\belowcaptionskip=\skip123
+\subfloattopskip=\skip124
+\subfloatcapskip=\skip125
+\subfloatcaptopadj=\skip126
+\subfloatbottomskip=\skip127
+\subfloatlabelskip=\skip128
+\subfloatcapmargin=\dimen165
+\c@@contsubnum=\count283
+\m@mscap@capbox=\box55
+\m@mscap@fbox=\box56
+\sidecapsep=\dimen166
+\sidecapwidth=\dimen167
+\m@m@tempdima=\dimen168
+\m@mscapraise=\dimen169
+\sidecapraise=\dimen170
+\m@mscapmainwidth=\dimen171
+\m@mscaplkern=\dimen172
+\beforeepigraphskip=\skip129
+\afterepigraphskip=\skip130
+\epigraphwidth=\skip131
+\epigraphrule=\skip132
+LaTeX Info: Redefining \em on input line 6932.
+LaTeX Info: Redefining \emph on input line 6940.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count284
+)
+\tocentryskip=\skip133
+\tocbaseline=\skip134
+\cftparskip=\skip135
+\cftbeforebookskip=\skip136
+\cftbookindent=\dimen173
+\cftbooknumwidth=\dimen174
+\cftbeforepartskip=\skip137
+\cftpartindent=\skip138
+\cftpartnumwidth=\skip139
+\cftbeforechapterskip=\skip140
+\cftchapterindent=\skip141
+\cftchapternumwidth=\skip142
+\cftbeforesectionskip=\skip143
+\cftsectionindent=\skip144
+\cftsectionnumwidth=\skip145
+\cftbeforesubsectionskip=\skip146
+\cftsubsectionindent=\skip147
+\cftsubsectionnumwidth=\skip148
+\cftbeforesubsubsectionskip=\skip149
+\cftsubsubsectionindent=\skip150
+\cftsubsubsectionnumwidth=\skip151
+\cftbeforeparagraphskip=\skip152
+\cftparagraphindent=\skip153
+\cftparagraphnumwidth=\skip154
+\cftbeforesubparagraphskip=\skip155
+\cftsubparagraphindent=\skip156
+\cftsubparagraphnumwidth=\skip157
+\prechapterprecisshift=\dimen175
+\c@maxsecnumdepth=\count285
+\bibindent=\dimen176
+\bibitemsep=\skip158
+\indexcolsep=\skip159
+\indexrule=\skip160
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 7935.
+LaTeX Info: Redefining \flushbottom on input line 7939.
+\glossarycolsep=\dimen177
+\glossaryrule=\dimen178
+\sideparvshift=\skip161
+\sideins=\insert251
+\sidebartopsep=\skip162
+\sidebarhsep=\skip163
+\sidebarvsep=\skip164
+\sidebarwidth=\skip165
+\footmarkwidth=\skip166
+\footmarksep=\skip167
+\footparindent=\skip168
+\footinsdim=\skip169
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count286
+\m@m@h=\dimen179
+\m@mipn@skip=\skip170
+\sidefootins=\insert248
+\sidefootadjust=\skip171
+\sidefootheight=\skip172
+\sidefoothsep=\skip173
+\sidefootvsep=\skip174
+\sidefootwidth=\skip175
+\m@mdownsf=\skip176
+\c@sidefootnote=\count287
+\sidefootmarkwidth=\skip177
+\sidefootmarksep=\skip178
+\sidefootparindent=\skip179
+\c@pagenote=\count288
+\c@pagenoteshadow=\count289
+\mem@pn@lastkern=\skip180
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+\verbatimindent=\skip181
+\verbatim@out=\write3
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/shortvrb.sty
+Package: shortvrb 2022/11/13 v3.0m Standard LaTeX documentation package V3 (FMi
+)
+)
+\bvboxsep=\skip182
+\c@memfbvline=\count290
+\c@bvlinectr=\count291
+\bvnumlength=\skip183
+\fb@frw=\dimen180
+\fb@frh=\dimen181
+\FrameRule=\dimen182
+\FrameSep=\dimen183
+\c@cp@cntr=\count292
+\c@ism@mctr=\count293
+\c@xsm@mctr=\count294
+\c@csm@mctr=\count295
+\c@ksm@mctr=\count296
+\c@xksm@mctr=\count297
+\c@cksm@mctr=\count298
+\c@msm@mctr=\count299
+\c@xmsm@mctr=\count300
+\c@cmsm@mctr=\count301
+\c@bsm@mctr=\count302
+\c@workm@mctr=\count303
+\c@sheetsequence=\count304
+\c@lastsheet=\count305
+\c@lastpage=\count306
+
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count307
+\c@lofdepth=\count308
+\cftbeforefigureskip=\skip184
+\cftfigureindent=\skip185
+\cftfigurenumwidth=\skip186
+\c@table=\count309
+\c@lotdepth=\count310
+\cftbeforetableskip=\skip187
+\cfttableindent=\skip188
+\cfttablenumwidth=\skip189
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read3
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language3
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@galician=\language6
+\l@german-x-2023-03-06=\language7
+\l@portuguese=\language8
+\l@french=\language9
+\l@classiclatin=\language10
+\l@serbian=\language11
+\l@slovak=\language12
+\l@catalan=\language13
+\l@nynorsk=\language14
+\l@ngerman=\language15
+\l@ukrainian=\language16
+\l@sanskrit=\language17
+\l@turkmen=\language18
+\l@macedonian=\language19
+\l@esperanto=\language20
+\l@romanian=\language21
+\l@pinyin=\language22
+\l@ngerman-x-2023-03-06=\language23
+\l@piedmontese=\language24
+\l@churchslavonic=\language25
+\l@turkish=\language26
+\l@malayalam=\language27
+\l@latvian=\language28
+\l@usenglishmax=\language29
+\l@hungarian=\language30
+\l@swissgerman=\language31
+\l@hindi=\language32
+\l@bokmal=\language33
+\l@czech=\language34
+\l@ibycus=\language35
+\l@dutch=\language36
+\l@belarusian=\language37
+\l@panjabi=\language38
+\l@mongolianlmc=\language39
+\l@ancientgreek=\language40
+\l@russian=\language41
+\l@italian=\language42
+\l@german=\language43
+\l@farsi=\language44
+\l@ethiopic=\language45
+\l@armenian=\language46
+\l@serbianc=\language47
+\l@indonesian=\language48
+\l@liturgicallatin=\language49
+\l@lithuanian=\language50
+\l@interlingua=\language51
+\l@slovenian=\language52
+\l@friulan=\language53
+\l@danish=\language54
+\l@croatian=\language55
+\l@finnish=\language56
+\l@bengali=\language57
+\l@basque=\language58
+\l@latin=\language59
+\l@irish=\language60
+\l@welsh=\language61
+\l@bulgarian=\language62
+\l@telugu=\language63
+\l@coptic=\language64
+\l@georgian=\language65
+\l@romansh=\language66
+\l@polish=\language67
+\l@icelandic=\language68
+\l@mongolian=\language69
+\l@oriya=\language70
+\l@pali=\language71
+\l@arabic=\language72
+\l@ukenglish=\language73
+\l@afrikaans=\language74
+\l@tamil=\language75
+\l@swedish=\language76
+\l@thai=\language77
+\l@kannada=\language78
+\l@marathi=\language79
+\l@occitan=\language80
+\l@assamese=\language81
+\l@spanish=\language82
+\l@estonian=\language83
+\l@greek=\language84
+\l@schoolfinnish=\language85
+\l@monogreek=\language86
+\l@uppersorbian=\language87
+\l@gujarati=\language88
+\l@kurmanji=\language89
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count311
+\U@D=\dimen184
+\l@unhyphenated=\language90
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-polish/polish.ldf
+Language: polish 2022/03/12 1.3 Babel support for Polish
+Package babel Info: Making " an active character on input line 101.
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pl.tex
+UTF-8 Polish hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pl.tex)))
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/pl/babel-polish.tex
+Package babel Info: Importing font and identification data for polish
+(babel)             from babel-pl.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2023/12/11 v1.66 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count312
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count313
+\l__fontspec_language_int=\count314
+\l__fontspec_strnum_int=\count315
+\l__fontspec_tmp_int=\count316
+\l__fontspec_tmpa_int=\count317
+\l__fontspec_tmpb_int=\count318
+\l__fontspec_tmpc_int=\count319
+\l__fontspec_em_int=\count320
+\l__fontspec_emdef_int=\count321
+\l__fontspec_strong_int=\count322
+\l__fontspec_strongdef_int=\count323
+\l__fontspec_tmpa_dim=\dimen185
+\l__fontspec_tmpb_dim=\dimen186
+\l__fontspec_tmpc_dim=\dimen187
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count324
+)
+\CatcodeTableOther=\catcodetable16
+\CatcodeTableExpl=\catcodetable17
+)
+Lua module: polyglossia 2013/05/11 1.3 Polyglossia
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.lde
+Package: gloss-latex 2023/12/11 v1.66 polyglossia: module for default language
+)
+Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count325
+\csq@gtype=\count326
+\csq@glevel=\count327
+\csq@qlevel=\count328
+\csq@maxlvl=\count329
+\csq@tshold=\count330
+\csq@ltx@everypar=\toks29
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-polish.ldf
+File: gloss-polish.ldf polyglossia: module for Polish
+
+(/usr/share/texlive/texmf-dist/tex/luatex/luavlna/luavlna.sty
+Package: luavlna 2023-06-21 luavlna
+
+(/usr/share/texlive/texmf-dist/tex/luatex/luavlna/luavlna.tex
+Inserting `LuaVlna' in `pre_linebreak_filter'.
+Inserting `allow hyphen breaks' in `hyphenate'.)))
+Package polyglossia Info: Default language is polish.
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-greek.ldf
+File: gloss-greek.ldf polyglossia: module for Greek
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/xgreek-fixes.def)
+Package polyglossia Info: Option: Greek, variant=monotonic.
+Package polyglossia Info: Option: Greek, numerals=greek.
+\@attic@num=\count331
+)
+luaotfload | cache : Lookup cache loaded from /home/mily/.texlive2023/texmf-var/
+luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
+(fontspec)             Plus' with options [Renderer=Harfbuzz,Script=Greek].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"GentiumPlus:mode=harf;script=grek;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"GentiumPlus:mode=harf;script=grek;language=dflt;+smc
+p;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/B:mode=harf;script=grek;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/B:mode=harf;script=grek;language=dflt;+s
+mcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/I:mode=harf;script=grek;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/I:mode=harf;script=grek;language=dflt;+s
+mcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/BI:mode=harf;script=grek;language=dflt;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"GentiumPlus/BI:mode=harf;script=grek;language=dflt;+
+smcp;"
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count332
+\Gm@cntv=\count333
+\c@Gm@tempcnt=\count334
+\Gm@bindingoffset=\dimen188
+\Gm@wd@mp=\dimen189
+\Gm@odd@mp=\dimen190
+\Gm@even@mp=\dimen191
+\Gm@layoutwidth=\dimen192
+\Gm@layoutheight=\dimen193
+\Gm@layouthoffset=\dimen194
+\Gm@layoutvoffset=\dimen195
+\Gm@dimlist=\toks30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count335
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count336
+\c@listtotal=\count337
+\c@listcount=\count338
+\c@liststart=\count339
+\c@liststop=\count340
+\c@citecount=\count341
+\c@citetotal=\count342
+\c@multicitecount=\count343
+\c@multicitetotal=\count344
+\c@instcount=\count345
+\c@maxnames=\count346
+\c@minnames=\count347
+\c@maxitems=\count348
+\c@minitems=\count349
+\c@citecounter=\count350
+\c@maxcitecounter=\count351
+\c@savedcitecounter=\count352
+\c@uniquelist=\count353
+\c@uniquename=\count354
+\c@refsection=\count355
+\c@refsegment=\count356
+\c@maxextratitle=\count357
+\c@maxextratitleyear=\count358
+\c@maxextraname=\count359
+\c@maxextradate=\count360
+\c@maxextraalpha=\count361
+\c@abbrvpenalty=\count362
+\c@highnamepenalty=\count363
+\c@lownamepenalty=\count364
+\c@maxparens=\count365
+\c@parenlevel=\count366
+\blx@tempcnta=\count367
+\blx@tempcntb=\count368
+\blx@tempcntc=\count369
+\c@blx@maxsection=\count370
+\blx@maxsegment@0=\count371
+\blx@notetype=\count372
+\blx@parenlevel@text=\count373
+\blx@parenlevel@foot=\count374
+\blx@sectionciteorder@0=\count375
+\blx@sectionciteorderinternal@0=\count376
+\blx@entrysetcounter=\count377
+\blx@biblioinstance=\count378
+\labelnumberwidth=\skip190
+\labelalphawidth=\skip191
+\biblabelsep=\skip192
+\bibnamesep=\skip193
+\bibinitsep=\skip194
+\bibparsep=\skip195
+\bibhang=\skip196
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language91
+\c@mincomprange=\count379
+\c@maxcomprange=\count380
+\c@mincompwidth=\count381
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count382
+\c@savedafterword=\count383
+\c@annotator=\count384
+\c@savedannotator=\count385
+\c@author=\count386
+\c@savedauthor=\count387
+\c@bookauthor=\count388
+\c@savedbookauthor=\count389
+\c@commentator=\count390
+\c@savedcommentator=\count391
+\c@editor=\count392
+\c@savededitor=\count393
+\c@editora=\count394
+\c@savededitora=\count395
+\c@editorb=\count396
+\c@savededitorb=\count397
+\c@editorc=\count398
+\c@savededitorc=\count399
+\c@foreword=\count400
+\c@savedforeword=\count401
+\c@holder=\count402
+\c@savedholder=\count403
+\c@introduction=\count404
+\c@savedintroduction=\count405
+\c@namea=\count406
+\c@savednamea=\count407
+\c@nameb=\count408
+\c@savednameb=\count409
+\c@namec=\count410
+\c@savednamec=\count411
+\c@translator=\count412
+\c@savedtranslator=\count413
+\c@shortauthor=\count414
+\c@savedshortauthor=\count415
+\c@shorteditor=\count416
+\c@savedshorteditor=\count417
+\c@labelname=\count418
+\c@savedlabelname=\count419
+\c@institution=\count420
+\c@savedinstitution=\count421
+\c@lista=\count422
+\c@savedlista=\count423
+\c@listb=\count424
+\c@savedlistb=\count425
+\c@listc=\count426
+\c@savedlistc=\count427
+\c@listd=\count428
+\c@savedlistd=\count429
+\c@liste=\count430
+\c@savedliste=\count431
+\c@listf=\count432
+\c@savedlistf=\count433
+\c@location=\count434
+\c@savedlocation=\count435
+\c@organization=\count436
+\c@savedorganization=\count437
+\c@origlocation=\count438
+\c@savedoriglocation=\count439
+\c@origpublisher=\count440
+\c@savedorigpublisher=\count441
+\c@publisher=\count442
+\c@savedpublisher=\count443
+\c@language=\count444
+\c@savedlanguage=\count445
+\c@origlanguage=\count446
+\c@savedoriglanguage=\count447
+\c@pageref=\count448
+\c@savedpageref=\count449
+\shorthandwidth=\skip197
+\shortjournalwidth=\skip198
+\shortserieswidth=\skip199
+\shorttitlewidth=\skip256
+\shortauthorwidth=\skip257
+\shorteditorwidth=\skip258
+\locallabelnumberwidth=\skip259
+\locallabelalphawidth=\skip260
+\localshorthandwidth=\skip261
+\localshortjournalwidth=\skip262
+\localshortserieswidth=\skip263
+\localshorttitlewidth=\skip264
+\localshortauthorwidth=\skip265
+\localshorteditorwidth=\skip266
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count450
+\c@textcitetotal=\count451
+\c@textcitemaxnames=\count452
+\c@biburlbigbreakpenalty=\count453
+\c@biburlbreakpenalty=\count454
+\c@biburlnumpenalty=\count455
+\c@biburlucpenalty=\count456
+\c@biburllcpenalty=\count457
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count458
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count459
+\c@bbx:relatedtotal=\count460
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-01-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count461
+\l__lipsum_a_int=\count462
+\l__lipsum_b_int=\count463
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'polish'.
+ (./main.aux
+(./chapters/wstep.aux) (./chapters/prehistoria.aux) (./chapters/destylacja.aux) (./chapters/chanukija.aux) (./chapters/mierzyc_niezmierzone.aux)
+(./chapters/rodzaje_nochetakow.aux) (./chapters/epilog.aux)
+(./chapters/moral.aux) (./chapters/poslowie.aux) (./chapters/zakonczenie.aux)
+(./chapters/wielki_final.aux) (./chapters/podziekowania.aux)
+(./chapters/spis_rzeczy.aux))
+\openout1 = main.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Info: Redefining \rmfamily on input line 6.
+LaTeX Info: Redefining \sffamily on input line 6.
+LaTeX Info: Redefining \ttfamily on input line 6.
+
+set lang polish, 67
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 6.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 6.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 6.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 6.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 6.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 6.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 6.
+LaTeX Font Info:    Redeclaring math accent \check on input line 6.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 6.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 6.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 6.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 6.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 6.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 6.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 6.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 6.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 6.
+set lang czech, 34
+set lang slovak, 12
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.49512pt, 247.8847pt, 63.74274pt)
+* v-part:(T,H,B)=(59.84012pt, 349.06226pt, 89.76018pt)
+* \paperwidth=354.12256pt
+* \paperheight=498.66255pt
+* \textwidth=247.8847pt
+* \textheight=349.06226pt
+* \oddsidemargin=-29.77487pt
+* \evensidemargin=-8.52725pt
+* \topmargin=-42.49736pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=128.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'greek'...
+Package biblatex Info: ... file 'greek.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/greek.lbx
+File: greek.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'polish'...
+Package biblatex Info: ... file 'polish.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/polish.lbx
+File: polish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+\openout4 = main.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
+LaTeX Info: Redefining \rmfamily on input line 6.
+LaTeX Info: Redefining \sffamily on input line 6.
+LaTeX Info: Redefining \ttfamily on input line 6.
+
+set lang polish, 67
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = chapters/wstep.aux
+ (./chapters/wstep.tex
+[2
+
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+) [3]
+\openout2 = chapters/prehistoria.aux
+
+(./chapters/prehistoria.tex [4
+
+
+
+
+]) [5]
+\openout2 = chapters/destylacja.aux
+ (./chapters/destylacja.tex [6
+
+
+
+
+]
+LaTeX Info: Redefining \rmfamily on input line 4.
+LaTeX Info: Redefining \sffamily on input line 4.
+LaTeX Info: Redefining \ttfamily on input line 4.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8]
+\openout2 = chapters/chanukija.aux
+ (./chapters/chanukija.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 8.
+
+Overfull \hbox (2.08333pt too wide) in paragraph at lines 7--9
+[]\TU/lmr/m/it/9 Sza-bel nam nie za-brak-nie, szlach-ta na koń [], 
+ []
+
+) [9
+
+
+
+
+]
+\openout2 = chapters/mierzyc_niezmierzone.aux
+ (./chapters/mierzyc_niezmierzone.tex [10
+
+
+
+
+] [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13] [14]
+Overfull \hbox (23.85197pt too wide) in paragraph at lines 61--62
+\TU/lmr/m/n/10 TO-DO TO-DO TO-DO Sfra-gi-sty-ka https://pl.wi-ki-pe-dia.org/wi-
+ []
+
+[15]
+Underfull \hbox (badness 2221) in paragraph at lines 86--86
+[]|\TU/lmr/m/n/6 0=kra-kow-ska, 1=ślą-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\TU/lmr/m/n/6 0=sta-ły, 1=cie-kły,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\TU/lmr/m/n/6 0=sku-pio-ny,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\TU/lmr/m/n/6 2=po-łu-dnie,
+ []
+
+
+Overfull \hbox (15.73732pt too wide) in paragraph at lines 76--110
+ [][] 
+ []
+
+) [16] [17]
+\openout2 = chapters/rodzaje_nochetakow.aux
+ (./chapters/rodzaje_nochetakow.tex [18
+
+
+
+
+]) [19]
+\openout2 = chapters/epilog.aux
+
+(./chapters/epilog.tex [20
+
+
+
+
+]
+LaTeX Info: Redefining \rmfamily on input line 4.
+LaTeX Info: Redefining \sffamily on input line 4.
+LaTeX Info: Redefining \ttfamily on input line 4.
+) [21]
+\openout2 = chapters/moral.aux
+ (./chapters/moral.tex [22
+
+
+
+
+]) [23]
+\openout2 = chapters/poslowie.aux
+
+(./chapters/poslowie.tex [24
+
+
+
+
+]) [25]
+\openout2 = chapters/zakonczenie.aux
+ (./chapters/zakonczenie.tex [26
+
+
+
+
+]) [27]
+\openout2 = chapters/wielki_final.aux
+
+(./chapters/wielki_final.tex [28
+
+
+
+
+]) [29]
+\openout2 = chapters/podziekowania.aux
+ (./chapters/podziekowania.tex [30
+
+
+
+
+]
+LaTeX Info: Redefining \rmfamily on input line 8.
+LaTeX Info: Redefining \sffamily on input line 8.
+LaTeX Info: Redefining \ttfamily on input line 8.
+LaTeX Info: Redefining \rmfamily on input line 8.
+LaTeX Info: Redefining \sffamily on input line 8.
+LaTeX Info: Redefining \ttfamily on input line 8.
+
+Overfull \hbox (2.52531pt too wide) in paragraph at lines 12--13
+[]\TU/lmr/m/n/10 Po-dzię-ko-wa-nia śle-my przede wszyst-kim tek-sań-skim ho-
+ []
+
+)
+Overfull \hbox (1.0253pt too wide) in paragraph at lines 14--42
+[]\TU/lmr/m/n/10 Dzię-ku-je-my ka-ra-ib-skim pro-du-cen-tom ty-to-niu, w szcze-
+
+ []
+
+[31]
+\openout2 = chapters/spis_rzeczy.aux
+ (./chapters/spis_rzeczy.tex [32
+
+
+
+
+]
+LaTeX Info: Redefining \rmfamily on input line 4.
+LaTeX Info: Redefining \sffamily on input line 4.
+LaTeX Info: Redefining \ttfamily on input line 4.
+
+Overfull \hbox (5.44078pt too wide) in paragraph at lines 5--5
+\TU/lmr/m/n/10 Se-zon 9, Od-ci-nek 219. \TU/lmr/m/sc/10 url\TU/lmr/m/n/10 : $\T
+U/lmtt/m/n/10 https : / / kiepscy . fandom .
+ []
+
+[33] [34]) (./main.toc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+
+set lang polish, 67
+LaTeX Info: Redefining \rmfamily on input line 3.
+LaTeX Info: Redefining \sffamily on input line 3.
+LaTeX Info: Redefining \ttfamily on input line 3.
+set lang polish, 67
+
+Overfull \hbox (0.47537pt too wide) in paragraph at lines 8--8
+ [][] []\TU/lmr/m/n/10 Za-sto-so-wa-nie no-wo-cze-snych tech-no-lo-gii no- 
+ []
+
+[35]) [36]
+\tf@toc=\write5
+
+\openout5 = main.toc
+ (./main.aux (./chapters/wstep.aux) (./chapters/prehistoria.aux)
+(./chapters/destylacja.aux) (./chapters/chanukija.aux)
+(./chapters/mierzyc_niezmierzone.aux) (./chapters/rodzaje_nochetakow.aux)
+(./chapters/epilog.aux) (./chapters/moral.aux) (./chapters/poslowie.aux)
+(./chapters/zakonczenie.aux) (./chapters/wielki_final.aux)
+(./chapters/podziekowania.aux) (./chapters/spis_rzeczy.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+Package logreq Info: Writing requests to 'main.run.xml'.
+
+\openout1 = main.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 20039 strings out of 476553
+ 100000,1977958 words of node,token memory allocated
+ 1460 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 24 glue, 3 kern, 1 glyph, 57 attribute, 191 glue_sp
+ec, 30 attribute_list, 7 write nodes
+   avail lists: 2:1407,3:397,4:17,5:388,6:190,7:5009,8:53,9:1330,10:12,11:657,12
+:1
+ 41439 multiletter control sequences out of 65536+600000
+ 78 fonts using 19996319 bytes
+ 90i,12n,92p,1128b,1978s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texm
+f/fonts/opentype/public/lm/lmroman6-bold.otf></usr/share/texmf/fonts/opentype/pu
+blic/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-
+bolditalic.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-italic.otf></
+usr/share/texlive/texmf-dist/fonts/truetype/public/gentium-tug/GentiumPlus-Itali
+c.ttf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share
+/texmf/fonts/opentype/public/lm/lmromancaps10-regular.otf></usr/share/texmf/font
+s/opentype/public/lm/lmroman8-italic.otf></usr/share/texmf/fonts/opentype/public
+/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman6-reg
+ular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/
+share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/font
+s/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/publi
+c/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-
+bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/rsfs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs5.pf
+b>
+Output written on main.pdf (36 pages, 199957 bytes).
+
+PDF statistics: 269 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
