@@ -1,0 +1,22 @@
+\xpg@aux {}{polish}
+\contentsline {chapter}{\chapternumberline {1}Wstęp}{3}{}%
+\contentsline {chapter}{\chapternumberline {2}Nochetak w prehistorii}{5}{}%
+\contentsline {chapter}{\chapternumberline {3}Destylacją po bandzie, czyli z czym to się je}{7}{}%
+\contentsline {section}{\numberline {3.1}Roztrząsanie nieznanego}{8}{}%
+\contentsline {section}{\numberline {3.2}Zastosowanie nowoczesnych technologii nochetakowych w rozwiązaniach okołoporodowych}{8}{}%
+\contentsline {section}{\numberline {3.3}Nyan Cat, czyli kosmiczny nochetak}{8}{}%
+\contentsline {chapter}{\chapternumberline {4}Chanukija zgaszona, czyli siała baba mak, nie wiedziała jak}{9}{}%
+\contentsline {chapter}{\chapternumberline {5}Mierzyć niezmierzone, czyli współczynnik nochetaczności}{11}{}%
+\contentsline {section}{\numberline {5.1}Współczynnik w historii}{13}{}%
+\contentsline {subsection}{Badania pierwsze}{13}{}%
+\contentsline {subsection}{Badania złożone}{15}{}%
+\contentsline {section}{\numberline {5.2}Charakterystyka danych i metodologia}{16}{}%
+\contentsline {chapter}{\chapternumberline {6}Rodzaje nochetaków}{19}{}%
+\contentsline {chapter}{\chapternumberline {7}Epilog}{21}{}%
+\contentsline {chapter}{\chapternumberline {8}Morał}{23}{}%
+\contentsline {chapter}{\chapternumberline {9}Posłowie}{25}{}%
+\contentsline {chapter}{\chapternumberline {10}Zakończenie}{27}{}%
+\contentsline {chapter}{\chapternumberline {11}Wielki finał}{29}{}%
+\contentsline {chapter}{\chapternumberline {12}Podziękowania}{31}{}%
+\contentsline {chapter}{Bibliografia}{33}{}%
+\contentsline {chapter}{Spis treści}{35}{}%
